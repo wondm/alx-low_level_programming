@@ -1,0 +1,2 @@
+# C - Debugging
+      Debugging is the process of finding and fixing errors in software that prevents it from running correc      tly. As you become a more advanced programmer and an industry engineer, you will learn how to use debu      gging tools such as gdb or built-in tools that IDEs have. However, it’s important to understand the co      ncepts and processes of debugging manually.
